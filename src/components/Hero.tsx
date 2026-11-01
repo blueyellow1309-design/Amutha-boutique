@@ -95,9 +95,9 @@ export const Hero: React.FC<HeroProps> = ({ onExplore, onOpenStore, onOpenWholes
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-[#C79A1E]/30 bg-[#F4EEDF]">
               <img
-                src="/src/assets/images/hero_handloom_saree_1793512476919.jpg"
-                alt="Chettinad handloom saree worn gracefully at a heritage mansion"
-                className="w-full h-[400px] sm:h-[480px] lg:h-[520px] object-cover hover:scale-105 transition-transform duration-700 ease-out"
+                src="/assets/aistudio/20260115_191545_090ea70d.jpg"
+                alt="Amutha Boutique handcrafted Chettinad saree worn gracefully by the evening promenade"
+                className="w-full h-[440px] sm:h-[500px] lg:h-[540px] object-cover object-[center_25%] hover:scale-105 transition-transform duration-700 ease-out"
                 loading="eager"
                 referrerPolicy="no-referrer"
               />

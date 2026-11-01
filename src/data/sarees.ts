@@ -645,6 +645,6 @@ export const WEAVE_HERITAGE_STORIES = [
     title: "Kanadukathan's Handloom Legacy",
     subtitle: "Woven in the heart of Chettinad, Sivaganga",
     description: "Amutha Boutique is based at 58 A SM Nagar, Kanadukathan, Karaikudi. Our weaving families uphold centuries-old Chettinad textile heritage, ensuring every thread carries the authenticity of Tamil Nadu craftsmanship.",
-    image: "/src/assets/images/hero_handloom_saree_1793512476919.jpg"
+    image: "/assets/aistudio/20260115_191545_090ea70d.jpg"
   }
 ];
