@@ -1,0 +1,6 @@
+{
+  "name": "Amutha Boutique - Handloom Cotton Sarees",
+  "description": "Authentic Chettinad handloom cotton sarees from Kanadukathan, Karaikudi with dynamic Razorpay checkout and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
